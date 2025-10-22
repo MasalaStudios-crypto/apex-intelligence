@@ -1,0 +1,103 @@
+{
+  "_meta": {
+    "language": "ur",
+    "name": "Urdu (اردو)",
+    "direction": "rtl",
+    "region": "Pakistan, India, UAE, Diaspora"
+  },
+  
+  "meta": {
+    "title": "APEX Intelligence - مستقبل کے لیے نیورل ایج",
+    "description": "APEX Intelligence پیشن گوئی AI استعمال کرتے ہوئے مستقبل کے لیڈرز کی شناخت کرتا ہے۔ 2030 کی تعریف کرنے والے انٹرپرائزز کے لیے بنایا گیا۔"
+  },
+  
+  "nav": {
+    "logoSpan": "Intelligence",
+    "intelligence": "انٹیلیجنس",
+    "platform": "پلیٹ فارم",
+    "pricing": "قیمتیں",
+    "docs": "دستاویزات",
+    "login": "لاگ ان",
+    "ctaBtn": "جلد رسائی حاصل کریں"
+  },
+  
+  "hero": {
+    "title": "APEX Intelligence",
+    "tagline": "آنے والے کل کے لیے نیورل ایج",
+    "subtitle": "\"ان لیڈرز کے لیے بنایا گیا جو 2030 کی تعریف کریں گے۔\"",
+    "primaryBtn": "جلد رسائی حاصل کریں",
+    "secondaryBtn": "ڈیمو دیکھیں →",
+    "scrollText": "نیورل فائدہ دریافت کریں"
+  },
+  
+  "intelligence": {
+    "heading1": "ہم تلاش نہیں کرتے۔",
+    "heading2": "ہم پیشن گوئی کرتے ہیں۔",
+    "description": "روایتی لیڈ جنریشن بتاتی ہے کہ کون موجود ہے۔<br>APEX Intelligence بتاتا ہے کہ اہمیت کس کی ہے—<br>دنیا کو پتا چلنے سے پہلے۔",
+    "learnMore": "جانیں کیسے →",
+    "profilesCount": "2.4M پروفائلز کا تجزیہ"
+  },
+  
+  "moat": {
+    "title": "نیورل موٹ",
+    "subtitle": "مقابلہ کرنے والے ہماری نقل کیوں نہیں کر سکتے",
+    "predictive": {
+      "title": "پیشن گوئی انٹیلیجنس",
+      "description": "فیصلہ ساز افراد کی شناخت 2-3 سال پہلے۔ ہماری AI سیکھتی ہے کہ کون بااثر بنتا ہے۔"
+    },
+    "network": {
+      "title": "کمپاؤنڈنگ نیٹ ورک",
+      "description": "ہر کلائنٹ ہمارے ماڈلز کو سکھاتا ہے۔ خصوصی مستقبل کے لیڈرز ڈیٹا سیٹ۔ جنریشن الفا میں پہلی چال کا فائدہ۔"
+    },
+    "api": {
+      "title": "API-First آرکیٹیکچر",
+      "description": "انٹرپرائز کے لیے وائٹ لیبل۔ ہمارے پلیٹ فارم پر بنائیں۔ B2B کا نیورل انفراسٹرکچر بنیں۔"
+    }
+  },
+  
+  "pricing": {
+    "title": "اگلے دور کے لیے سرمایہ کاری کی سطحیں",
+    "perMonth": "/ماہ",
+    "popularBadge": "سب سے مقبول",
+    
+    "plan1Title": "APEX Foundation",
+    "plan1Price": "درخواست کے ذریعے",
+    "plan1Subtitle": "ترقی پذیر کمپنیوں کے لیے",
+    "plan1Feature1": "✓ 500 لیڈز/ماہ",
+    "plan1Feature2": "✓ ملٹی چینل",
+    "plan1Feature3": "✓ CRM انضمام",
+    "plan1Feature4": "✓ ترجیحی سپورٹ",
+    "plan1Button": "اب درخواست دیں →",
+    
+    "plan2Title": "APEX Summit",
+    "plan2Price": "$7,997",
+    "plan2Subtitle": "پیمانے کے لیے تیار انٹرپرائزز کے لیے",
+    "plan2Feature1": "✓ 2,000 لیڈز/ماہ",
+    "plan2Feature2": "✓ مستقبل کے لیڈرز ڈیٹا بیس",
+    "plan2Feature3": "✓ وائٹ لیبل آپشن",
+    "plan2Feature4": "✓ وقف مینیجر",
+    "plan2Feature5": "✓ API رسائی",
+    "plan2Button": "ڈیمو بک کریں →",
+    
+    "plan3Title": "APEX Neural",
+    "plan3Price": "$19,997",
+    "plan3Subtitle": "Fortune 500 اور اشرافیہ فرموں کے لیے",
+    "plan3Feature1": "✓ لامحدود لیڈز",
+    "plan3Feature2": "✓ پیشن گوئی انجن",
+    "plan3Feature3": "✓ حسب ضرورت AI ماڈلز",
+    "plan3Feature4": "✓ حکمت عملی سیشنز",
+    "plan3Feature5": "✓ مشترکہ برانڈ مواد",
+    "plan3Button": "سیلز سے رابطہ کریں →",
+    
+    "note": "صرف سالانہ معاہدے۔ انٹیلیجنس انفراسٹرکچر میں سرمایہ کاری، لاگت نہیں۔"
+  },
+  
+  "fellows": {
+    "title": "APEX Fellows",
+    "subtitle": "کل کے لیڈرز کو آج بااختیار بنانا",
+    "description": "اعلیٰ عالمی یونیورسٹیوں میں طلباء اور ابھرتے ہوئے بانیوں کے لیے مفت APEX Intelligence رسائی۔ کیونکہ بہترین سرمایہ کاری ان لوگوں میں ہے جو مستقبل کو تشکیل دیں گے۔",
+    "stat1Label": "طالب علم فیلوز",
+    "stat2Label": "ممالک",
+    "applyButton": "فیلوشپ کے لیے درخواست دیں →"
+  }
+}
