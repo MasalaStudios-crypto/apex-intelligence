@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "title": "APEX Intelligence - Ventaja neural para generación predictiva de leads B2B",
+    "description": "Construido para los líderes que definirán 2030"
+  },
+  "nav": {
+    "brand": "APEX",
+    "brandSuffix": "Intelligence",
+    "intelligence": "Inteligencia",
+    "platform": "Plataforma",
+    "pricing": "Precios",
+    "docs": "Documentación",
+    "login": "Iniciar Sesión",
+    "ctaButton": "Obtener Acceso Anticipado"
+  },
+  "hero": {
+    "title": "APEX Intelligence",
+    "tagline": "La ventaja neural para lo que sigue.",
+    "subtitle": "Construido para los líderes que definirán 2030.",
+    "primaryBtn": "Obtener Acceso Anticipado",
+    "secondaryBtn": "Ver Demo →",
+    "scrollIndicator": "Descubre la ventaja neural"
+  },
+  "intelligence": {
+    "heading1": "No buscamos.",
+    "heading2": "Predecimos.",
+    "description": "La generación tradicional de leads encuentra quién existe.<br>APEX Intelligence encuentra quién importa—<br>antes de que el mundo lo sepa.",
+    "learnMore": "Conoce cómo →",
+    "statsLabel": "perfiles analizados"
+  },
+  "moat": {
+    "title": "El Foso Neural",
+    "subtitle": "Por qué los competidores no pueden copiarnos",
+    "card1Title": "Inteligencia Predictiva",
+    "card1Desc": "Identifica a los tomadores de decisiones 2-3 años antes de que tengan el título. Nuestra IA aprende patrones de quién se vuelve influyente.",
+    "card2Title": "Red Compuesta",
+    "card2Desc": "Cada cliente enseña a nuestros modelos. Conjunto de datos exclusivo de líderes futuros. Ventaja de primer movimiento en la Generación Alpha.",
+    "card3Title": "Arquitectura API-First",
+    "card3Desc": "Marca blanca para empresas. Construye sobre nuestra plataforma. Conviértete en la infraestructura neural del B2B.",
+    "codeComment": "Predecir ejecutivos futuros",
+    "codeOutput": "Se encontraron {count} estrellas emergentes"
+  },
+  "pricing": {
+    "title": "Niveles de inversión para la nueva era",
+    "plan1Name": "APEX Summit",
+    "plan1Price": "$7,997",
+    "plan1Period": "/mes",
+    "plan1Desc": "Para empresas listas para escalar",
+    "plan1Feature1": "2,000 leads/mes",
+    "plan1Feature2": "Base de datos de líderes futuros",
+    "plan1Feature3": "Opción de marca blanca",
+    "plan1Feature4": "Gerente dedicado",
+    "plan1Feature5": "Acceso API",
+    "plan1Button": "Reservar Demo →",
+    "plan2Badge": "MÁS POPULAR",
+    "plan2Name": "APEX Neural ⭐",
+    "plan2Price": "$19,997",
+    "plan2Period": "/mes",
+    "plan2Desc": "Para Fortune 500 y firmas élite",
+    "plan2Feature1": "Leads ilimitados",
+    "plan2Feature2": "Motor predictivo",
+    "plan2Feature3": "Modelos de IA personalizados",
+    "plan2Feature4": "Sesiones estratégicas",
+    "plan2Feature5": "Contenido co-branded",
+    "plan2Button": "Contactar Ventas →",
+    "plan3Name": "APEX Foundation",
+    "plan3Price": "Por Aplicación",
+    "plan3Desc": "Para empresas en crecimiento",
+    "plan3Feature1": "500 leads/mes",
+    "plan3Feature2": "Multicanal",
+    "plan3Feature3": "Integración CRM",
+    "plan3Feature4": "Soporte prioritario",
+    "plan3Button": "Aplicar Ahora →",
+    "note": "Solo contratos anuales. Inversión en infraestructura de inteligencia, no un costo."
+  },
+  "fellows": {
+    "title": "APEX Fellows",
+    "subtitle": "Empoderando a los líderes del mañana, hoy",
+    "description": "Acceso gratuito a APEX Intelligence para estudiantes y fundadores emergentes en las principales universidades globales. Porque la mejor inversión es en las personas que darán forma al futuro.",
+    "stat1Number": "2,400+",
+    "stat1Label": "Becarios Estudiantiles",
+    "stat2Number": "85",
+    "stat2Label": "Países",
+    "button": "Aplicar para Beca →"
+  },
+  "footer": {
+    "copyright": "© 2025 APEX Intelligence. Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio"
+  },
+  "language": {
+    "name": "Español",
+    "code": "es",
+    "selectLabel": "Idioma"
+  }
+}
