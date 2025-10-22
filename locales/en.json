@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "title": "APEX Intelligence - Neural edge for predictive B2B lead generation",
+    "description": "Built for the leaders who will define 2030"
+  },
+  "nav": {
+    "brand": "APEX",
+    "brandSuffix": "Intelligence",
+    "intelligence": "Intelligence",
+    "platform": "Platform",
+    "pricing": "Pricing",
+    "docs": "Docs",
+    "login": "Login",
+    "ctaButton": "Get Early Access"
+  },
+  "hero": {
+    "title": "APEX Intelligence",
+    "tagline": "The neural edge for what's next.",
+    "subtitle": "Built for the leaders who will define 2030.",
+    "primaryBtn": "Get Early Access",
+    "secondaryBtn": "Watch Demo →",
+    "scrollIndicator": "Discover the neural advantage"
+  },
+  "intelligence": {
+    "heading1": "We don't search.",
+    "heading2": "We predict.",
+    "description": "Traditional lead gen finds who exists.<br>APEX Intelligence finds who matters—<br>before the world knows it.",
+    "learnMore": "Learn how →",
+    "statsLabel": "profiles analyzed"
+  },
+  "moat": {
+    "title": "The Neural Moat",
+    "subtitle": "Why competitors can't copy us",
+    "card1Title": "Predictive Intelligence",
+    "card1Desc": "Identify decision-makers 2-3 years before they have the title. Our AI learns patterns of who becomes influential.",
+    "card2Title": "Compounding Network",
+    "card2Desc": "Every client teaches our models. Exclusive future leaders dataset. First-mover Gen Alpha advantage.",
+    "card3Title": "API-First Architecture",
+    "card3Desc": "White-label for enterprise. Build on our platform. Become the neural infrastructure of B2B.",
+    "codeComment": "Predict future executives",
+    "codeOutput": "Found {count} rising stars"
+  },
+  "pricing": {
+    "title": "Investment tiers for the next era",
+    "plan1Name": "APEX Summit",
+    "plan1Price": "$7,997",
+    "plan1Period": "/month",
+    "plan1Desc": "For enterprises ready to scale",
+    "plan1Feature1": "2,000 leads/month",
+    "plan1Feature2": "Future leaders database",
+    "plan1Feature3": "White-label option",
+    "plan1Feature4": "Dedicated manager",
+    "plan1Feature5": "API access",
+    "plan1Button": "Book Demo →",
+    "plan2Badge": "MOST POPULAR",
+    "plan2Name": "APEX Neural ⭐",
+    "plan2Price": "$19,997",
+    "plan2Period": "/month",
+    "plan2Desc": "For Fortune 500 & elite firms",
+    "plan2Feature1": "Unlimited leads",
+    "plan2Feature2": "Predictive engine",
+    "plan2Feature3": "Custom AI models",
+    "plan2Feature4": "Strategy sessions",
+    "plan2Feature5": "Co-branded content",
+    "plan2Button": "Contact Sales →",
+    "plan3Name": "APEX Foundation",
+    "plan3Price": "By Application",
+    "plan3Desc": "For growth-stage companies",
+    "plan3Feature1": "500 leads/month",
+    "plan3Feature2": "Multi-channel",
+    "plan3Feature3": "CRM integration",
+    "plan3Feature4": "Priority support",
+    "plan3Button": "Apply Now →",
+    "note": "Annual contracts only. Investment in intelligence infrastructure, not cost."
+  },
+  "fellows": {
+    "title": "APEX Fellows",
+    "subtitle": "Empowering tomorrow's leaders, today",
+    "description": "Free APEX Intelligence access for students and emerging founders at top global universities. Because the best investment is in people who will shape the future.",
+    "stat1Number": "2,400+",
+    "stat1Label": "Student Fellows",
+    "stat2Number": "85",
+    "stat2Label": "Countries",
+    "button": "Apply for Fellowship →"
+  },
+  "footer": {
+    "copyright": "© 2025 APEX Intelligence. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "language": {
+    "name": "English",
+    "code": "en",
+    "selectLabel": "Language"
+  }
+}
