@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "title": "APEX Intelligence - B2B潜在客户预测生成的神经优势",
+    "description": "为将定义2030年的领导者打造"
+  },
+  "nav": {
+    "brand": "APEX",
+    "brandSuffix": "Intelligence",
+    "intelligence": "智能",
+    "platform": "平台",
+    "pricing": "定价",
+    "docs": "文档",
+    "login": "登录",
+    "ctaButton": "获取早期访问"
+  },
+  "hero": {
+    "title": "APEX Intelligence",
+    "tagline": "下一代的神经优势。",
+    "subtitle": "为将定义2030年的领导者打造。",
+    "primaryBtn": "获取早期访问",
+    "secondaryBtn": "观看演示 →",
+    "scrollIndicator": "发现神经优势"
+  },
+  "intelligence": {
+    "heading1": "我们不搜索。",
+    "heading2": "我们预测。",
+    "description": "传统潜在客户生成找到存在的人。<br>APEX Intelligence找到重要的人——<br>在世界知道之前。",
+    "learnMore": "了解更多 →",
+    "statsLabel": "个人资料已分析"
+  },
+  "moat": {
+    "title": "神经护城河",
+    "subtitle": "为什么竞争对手无法复制我们",
+    "card1Title": "预测性智能",
+    "card1Desc": "在他们获得头衔之前2-3年识别决策者。我们的人工智能学习谁会变得有影响力的模式。",
+    "card2Title": "复合网络",
+    "card2Desc": "每个客户都在教导我们的模型。独家未来领导者数据集。Alpha一代的先发优势。",
+    "card3Title": "API优先架构",
+    "card3Desc": "企业白标。在我们的平台上构建。成为B2B的神经基础设施。",
+    "codeComment": "预测未来高管",
+    "codeOutput": "发现{count}颗冉冉升起的新星"
+  },
+  "pricing": {
+    "title": "新时代的投资层级",
+    "plan1Name": "APEX Summit",
+    "plan1Price": "$7,997",
+    "plan1Period": "/月",
+    "plan1Desc": "适合准备扩展的企业",
+    "plan1Feature1": "每月2,000个潜在客户",
+    "plan1Feature2": "未来领导者数据库",
+    "plan1Feature3": "白标选项",
+    "plan1Feature4": "专属经理",
+    "plan1Feature5": "API访问",
+    "plan1Button": "预订演示 →",
+    "plan2Badge": "最受欢迎",
+    "plan2Name": "APEX Neural ⭐",
+    "plan2Price": "$19,997",
+    "plan2Period": "/月",
+    "plan2Desc": "适合财富500强和精英公司",
+    "plan2Feature1": "无限潜在客户",
+    "plan2Feature2": "预测引擎",
+    "plan2Feature3": "定制AI模型",
+    "plan2Feature4": "战略会议",
+    "plan2Feature5": "联合品牌内容",
+    "plan2Button": "联系销售 →",
+    "plan3Name": "APEX Foundation",
+    "plan3Price": "申请制",
+    "plan3Desc": "适合成长型公司",
+    "plan3Feature1": "每月500个潜在客户",
+    "plan3Feature2": "多渠道",
+    "plan3Feature3": "CRM集成",
+    "plan3Feature4": "优先支持",
+    "plan3Button": "立即申请 →",
+    "note": "仅限年度合同。投资于智能基础设施，而非成本。"
+  },
+  "fellows": {
+    "title": "APEX Fellows",
+    "subtitle": "今天赋能明天的领导者",
+    "description": "为全球顶尖大学的学生和新兴创始人提供免费APEX Intelligence访问。因为最好的投资是投资于将塑造未来的人。",
+    "stat1Number": "2,400+",
+    "stat1Label": "学生研究员",
+    "stat2Number": "85",
+    "stat2Label": "个国家",
+    "button": "申请奖学金 →"
+  },
+  "footer": {
+    "copyright": "© 2025 APEX Intelligence。保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款"
+  },
+  "language": {
+    "name": "简体中文",
+    "code": "zh",
+    "selectLabel": "语言"
+  }
+}
