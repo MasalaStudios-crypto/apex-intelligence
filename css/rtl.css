@@ -1,0 +1,214 @@
+/* APEX Intelligence - RTL (Right-to-Left) Stylesheet
+ * For Arabic language support
+ * Automatically applied when html[dir="rtl"] is set
+ */
+
+/* Base RTL Adjustments */
+[dir="rtl"] body {
+  direction: rtl;
+  text-align: right;
+}
+
+/* Navigation RTL */
+[dir="rtl"] .nav,
+[dir="rtl"] nav {
+  flex-direction: row-reverse;
+}
+
+[dir="rtl"] .nav-links {
+  flex-direction: row-reverse;
+}
+
+[dir="rtl"] .logo {
+  margin-left: 0;
+  margin-right: 2rem;
+}
+
+/* Hero Section RTL */
+[dir="rtl"] .hero-content {
+  text-align: right;
+}
+
+[dir="rtl"] .hero-btns {
+  flex-direction: row-reverse;
+}
+
+/* Intelligence Section RTL */
+[dir="rtl"] .content-grid {
+  direction: rtl;
+}
+
+[dir="rtl"] .text-side {
+  text-align: right;
+}
+
+/* Moat Section RTL */
+[dir="rtl"] .moat-grid {
+  direction: rtl;
+}
+
+[dir="rtl"] .moat-card {
+  text-align: right;
+}
+
+[dir="rtl"] .icon {
+  margin-left: 1rem;
+  margin-right: 0;
+}
+
+/* Pricing Section RTL */
+[dir="rtl"] .pricing-grid {
+  direction: rtl;
+}
+
+[dir="rtl"] .pricing-card {
+  text-align: right;
+}
+
+[dir="rtl"] .features {
+  text-align: right;
+}
+
+[dir="rtl"] .features li {
+  padding-right: 1.5rem;
+  padding-left: 0;
+}
+
+/* Fellows Section RTL */
+[dir="rtl"] .fellows-content {
+  text-align: right;
+}
+
+[dir="rtl"] .fellows-stats {
+  direction: rtl;
+}
+
+/* Language Switcher RTL */
+[dir="rtl"] .language-switcher {
+  margin-left: 0;
+  margin-right: auto;
+}
+
+/* Buttons and Arrows RTL */
+[dir="rtl"] button,
+[dir="rtl"] .btn {
+  flex-direction: row-reverse;
+}
+
+/* Flip arrows for RTL */
+[dir="rtl"] .arrow,
+[dir="rtl"] .scroll-indicator .arrow {
+  transform: scaleX(-1);
+}
+
+/* Code Block RTL (keep LTR for code) */
+[dir="rtl"] pre,
+[dir="rtl"] code {
+  direction: ltr;
+  text-align: left;
+}
+
+/* Form Elements RTL */
+[dir="rtl"] input,
+[dir="rtl"] textarea,
+[dir="rtl"] select {
+  text-align: right;
+}
+
+/* Flexbox RTL Utilities */
+[dir="rtl"] .flex-row {
+  flex-direction: row-reverse;
+}
+
+/* Grid RTL Adjustments */
+[dir="rtl"] .grid {
+  direction: rtl;
+}
+
+/* Padding/Margin RTL Swap */
+[dir="rtl"] .pl-1 { padding-right: 0.25rem; padding-left: 0; }
+[dir="rtl"] .pl-2 { padding-right: 0.5rem; padding-left: 0; }
+[dir="rtl"] .pl-3 { padding-right: 0.75rem; padding-left: 0; }
+[dir="rtl"] .pl-4 { padding-right: 1rem; padding-left: 0; }
+
+[dir="rtl"] .pr-1 { padding-left: 0.25rem; padding-right: 0; }
+[dir="rtl"] .pr-2 { padding-left: 0.5rem; padding-right: 0; }
+[dir="rtl"] .pr-3 { padding-left: 0.75rem; padding-right: 0; }
+[dir="rtl"] .pr-4 { padding-left: 1rem; padding-right: 0; }
+
+[dir="rtl"] .ml-1 { margin-right: 0.25rem; margin-left: 0; }
+[dir="rtl"] .ml-2 { margin-right: 0.5rem; margin-left: 0; }
+[dir="rtl"] .ml-3 { margin-right: 0.75rem; margin-left: 0; }
+[dir="rtl"] .ml-4 { margin-right: 1rem; margin-left: 0; }
+
+[dir="rtl"] .mr-1 { margin-left: 0.25rem; margin-right: 0; }
+[dir="rtl"] .mr-2 { margin-left: 0.5rem; margin-right: 0; }
+[dir="rtl"] .mr-3 { margin-left: 0.75rem; margin-right: 0; }
+[dir="rtl"] .mr-4 { margin-left: 1rem; margin-right: 0; }
+
+/* Float RTL */
+[dir="rtl"] .float-left {
+  float: right;
+}
+
+[dir="rtl"] .float-right {
+  float: left;
+}
+
+/* Text Alignment RTL */
+[dir="rtl"] .text-left {
+  text-align: right;
+}
+
+[dir="rtl"] .text-right {
+  text-align: left;
+}
+
+/* Border Radius RTL */
+[dir="rtl"] .rounded-l {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-top-right-radius: 0.375rem;
+  border-bottom-right-radius: 0.375rem;
+}
+
+[dir="rtl"] .rounded-r {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-top-left-radius: 0.375rem;
+  border-bottom-left-radius: 0.375rem;
+}
+
+/* Position RTL */
+[dir="rtl"] .left-0 { right: 0; left: auto; }
+[dir="rtl"] .right-0 { left: 0; right: auto; }
+
+/* Transform RTL for Animations */
+[dir="rtl"] .slide-in-left {
+  animation: slideInRight 0.3s ease-out;
+}
+
+[dir="rtl"] .slide-in-right {
+  animation: slideInLeft 0.3s ease-out;
+}
+
+/* Responsive RTL Adjustments */
+@media (max-width: 768px) {
+  [dir="rtl"] .mobile-nav {
+    flex-direction: column;
+    text-align: right;
+  }
+  
+  [dir="rtl"] .mobile-menu {
+    left: auto;
+    right: 0;
+  }
+}
+
+/* Print RTL */
+@media print {
+  [dir="rtl"] body {
+    direction: rtl;
+    text-align: right;
+  }
+}
