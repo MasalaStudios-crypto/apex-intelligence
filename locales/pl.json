@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "language": "Polish",
+    "name": "Polski",
+    "direction": "ltr",
+    "region": "Poland, EU, Diaspora"
+  },
+  "nav": {
+    "home": "Strona główna",
+    "features": "Funkcje",
+    "pricing": "Cennik",
+    "fellows": "Program Stypendialny",
+    "about": "O nas",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "APEX Intelligence",
+    "subtitle": "Zwiększ Swoją Siłę Sprzedaży z Neuronową Generacją Leadów",
+    "description": "Zaawansowana platforma AI zasilana modelami neuronowymi w 22 językach. Dostarcza inteligencję marketingową w czasie rzeczywistym dla zespołów sprzedaży B2B.",
+    "cta": "Zacznij Teraz",
+    "learnMore": "Dowiedz się więcej",
+    "stats": {
+      "conversion": "+127% Konwersji",
+      "revenue": "+€1.3M Przychodu",
+      "leads": "+45K Leadów"
+    }
+  },
+  "moat": {
+    "title": "Dlaczego APEX",
+    "subtitle": "Lider Rynku w Neuronowej Generacji Leadów",
+    "feature1": {
+      "title": "AI w 22 Językach",
+      "description": "Zaawansowane przetwarzanie języka i tłumaczenie w czasie rzeczywistym"
+    },
+    "feature2": {
+      "title": "Neuronowy Model Leadów",
+      "description": "Niestandardowa AI ze wzrostem konwersji o 127%"
+    },
+    "feature3": {
+      "title": "Integracja CIPS",
+      "description": "Dostęp do chińskiego systemu płatności transgranicznych"
+    },
+    "feature4": {
+      "title": "Zasięg BRICS+",
+      "description": "Dotrzeć do 4,45 miliarda potencjalnych klientów"
+    }
+  },
+  "pricing": {
+    "title": "Wybierz Odpowiedni Plan dla Swojej Firmy",
+    "subtitle": "Elastyczne ceny dla zespołów każdej wielkości",
+    "monthly": "Miesięcznie",
+    "annual": "Rocznie",
+    "annualDiscount": "2 miesiące gratis",
+    "starter": {
+      "name": "Start",
+      "price": "€297",
+      "period": "mies",
+      "description": "Dla małych zespołów",
+      "features": {
+        "leads": "5 000 leadów/mies",
+        "languages": "Obsługa 6 języków",
+        "users": "3 użytkowników",
+        "support": "Wsparcie e-mail",
+        "analytics": "Podstawowa analityka",
+        "api": "Dostęp do API"
+      },
+      "cta": "Wybierz Start"
+    },
+    "professional": {
+      "name": "Professional",
+      "price": "€697",
+      "period": "mies",
+      "description": "Dla rozwijających się zespołów",
+      "popular": "Najpopularniejszy",
+      "features": {
+        "leads": "25 000 leadów/mies",
+        "languages": "Obsługa 15 języków",
+        "users": "10 użytkowników",
+        "support": "Wsparcie priorytetowe",
+        "analytics": "Zaawansowana analityka",
+        "api": "Pełny dostęp do API",
+        "integration": "Integracja CRM",
+        "training": "Szkolenie zespołu"
+      },
+      "cta": "Wybierz Professional"
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "price": "Indywidualny",
+      "period": "",
+      "description": "Dla dużych organizacji",
+      "features": {
+        "leads": "Nieograniczona liczba leadów",
+        "languages": "Obsługa 22 języków",
+        "users": "Nieograniczona liczba użytkowników",
+        "support": "Dedykowane wsparcie 24/7",
+        "analytics": "Niestandardowa analityka",
+        "api": "API white-label",
+        "integration": "Niestandardowe integracje",
+        "training": "Dedykowany menedżer sukcesu",
+        "sla": "Gwarancja SLA",
+        "security": "Bezpieczeństwo korporacyjne"
+      },
+      "cta": "Skontaktuj Się"
+    }
+  },
+  "fellows": {
+    "title": "Program APEX Fellows",
+    "subtitle": "Wspieranie Przyszłych Liderów AI",
+    "description": "Specjalna zniżka 90% dla studentów i świeżych absolwentów. Rozwijaj umiejętności zawodowe dzięki inteligencji sprzedaży napędzanej przez AI.",
+    "benefits": {
+      "discount": "Zniżka 90%",
+      "access": "Pełny Dostęp do Platformy",
+      "mentorship": "Mentoring Branżowy",
+      "certificate": "Certyfikat Ukończenia"
+    },
+    "eligibility": "Ważne dla zarejestrowanych studentów i absolwentów z ostatnich 2 lat",
+    "cta": "Aplikuj do Fellows"
+  },
+  "footer": {
+    "tagline": "Wzmocnij Swoją Inteligencję Sprzedaży w 22 Językach",
+    "product": "Produkt",
+    "company": "Firma",
+    "legal": "Prawne",
+    "social": "Media Społecznościowe",
+    "rights": "© 2025 APEX Intelligence. Wszelkie prawa zastrzeżone.",
+    "privacy": "Polityka Prywatności",
+    "terms": "Warunki Usługi"
+  }
+}
