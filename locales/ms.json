@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "language": "Malay",
+    "name": "Bahasa Melayu",
+    "direction": "ltr",
+    "region": "Malaysia, Indonesia, Singapore, Brunei"
+  },
+  "nav": {
+    "home": "Utama",
+    "features": "Ciri-ciri",
+    "pricing": "Harga",
+    "fellows": "Program Pelajar",
+    "about": "Tentang",
+    "contact": "Hubungi"
+  },
+  "hero": {
+    "title": "APEX Intelligence",
+    "subtitle": "Tingkatkan Kuasa Jualan Anda dengan Penjanaan Petunjuk Neural",
+    "description": "Platform AI termaju didayakan oleh model neural dalam 22 bahasa. Memberikan kecerdasan pemasaran masa nyata untuk pasukan jualan B2B.",
+    "cta": "Mulakan",
+    "learnMore": "Ketahui Lanjut",
+    "stats": {
+      "conversion": "+127% Penukaran",
+      "revenue": "+€1.3J Hasil",
+      "leads": "+45R Petunjuk"
+    }
+  },
+  "moat": {
+    "title": "Mengapa Pilih APEX",
+    "subtitle": "Peneraju Pasaran dalam Penjanaan Petunjuk Neural",
+    "feature1": {
+      "title": "AI dalam 22 Bahasa",
+      "description": "Pemprosesan bahasa termaju dan terjemahan masa nyata"
+    },
+    "feature2": {
+      "title": "Model Petunjuk Neural",
+      "description": "AI tersuai dengan peningkatan penukaran 127%"
+    },
+    "feature3": {
+      "title": "Integrasi CIPS",
+      "description": "Akses kepada sistem pembayaran rentas sempadan China"
+    },
+    "feature4": {
+      "title": "Liputan BRICS+",
+      "description": "Capai 4.45 bilion pelanggan berpotensi"
+    }
+  },
+  "pricing": {
+    "title": "Pilih Pelan yang Tepat untuk Perniagaan Anda",
+    "subtitle": "Harga fleksibel untuk pasukan semua saiz",
+    "monthly": "Bulanan",
+    "annual": "Tahunan",
+    "annualDiscount": "2 bulan percuma",
+    "starter": {
+      "name": "Permulaan",
+      "price": "€297",
+      "period": "bulan",
+      "description": "Untuk pasukan kecil",
+      "features": {
+        "leads": "5,000 petunjuk/bulan",
+        "languages": "Sokongan 6 bahasa",
+        "users": "3 pengguna",
+        "support": "Sokongan e-mel",
+        "analytics": "Analitik asas",
+        "api": "Akses API"
+      },
+      "cta": "Pilih Permulaan"
+    },
+    "professional": {
+      "name": "Profesional",
+      "price": "€697",
+      "period": "bulan",
+      "description": "Untuk pasukan yang berkembang",
+      "popular": "Paling Popular",
+      "features": {
+        "leads": "25,000 petunjuk/bulan",
+        "languages": "Sokongan 15 bahasa",
+        "users": "10 pengguna",
+        "support": "Sokongan keutamaan",
+        "analytics": "Analitik termaju",
+        "api": "Akses API penuh",
+        "integration": "Integrasi CRM",
+        "training": "Latihan pasukan"
+      },
+      "cta": "Pilih Profesional"
+    },
+    "enterprise": {
+      "name": "Perusahaan",
+      "price": "Tersuai",
+      "period": "",
+      "description": "Untuk organisasi besar",
+      "features": {
+        "leads": "Petunjuk tanpa had",
+        "languages": "Sokongan 22 bahasa",
+        "users": "Pengguna tanpa had",
+        "support": "Sokongan khusus 24/7",
+        "analytics": "Analitik tersuai",
+        "api": "API label putih",
+        "integration": "Integrasi tersuai",
+        "training": "Pengurus kejayaan khusus",
+        "sla": "Jaminan SLA",
+        "security": "Keselamatan perusahaan"
+      },
+      "cta": "Hubungi Kami"
+    }
+  },
+  "fellows": {
+    "title": "Program APEX Fellows",
+    "subtitle": "Memperkasakan Pemimpin AI Masa Depan",
+    "description": "Diskaun khas 90% untuk pelajar dan graduan baru. Bangunkan kemahiran profesional dengan kecerdasan jualan didayakan AI.",
+    "benefits": {
+      "discount": "Diskaun 90%",
+      "access": "Akses Platform Penuh",
+      "mentorship": "Bimbingan Industri",
+      "certificate": "Sijil Tamat"
+    },
+    "eligibility": "Sah untuk pelajar berdaftar dan graduan 2 tahun lepas",
+    "cta": "Mohon Fellows"
+  },
+  "footer": {
+    "tagline": "Kuasakan Kecerdasan Jualan Anda dalam 22 Bahasa",
+    "product": "Produk",
+    "company": "Syarikat",
+    "legal": "Undang-undang",
+    "social": "Media Sosial",
+    "rights": "© 2025 APEX Intelligence. Hak cipta terpelihara.",
+    "privacy": "Dasar Privasi",
+    "terms": "Terma Perkhidmatan"
+  }
+}
