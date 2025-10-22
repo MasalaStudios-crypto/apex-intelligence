@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "language": "Turkish",
+    "name": "Türkçe",
+    "direction": "ltr",
+    "region": "Turkey, Cyprus, Diaspora"
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "features": "Özellikler",
+    "pricing": "Fiyatlandırma",
+    "fellows": "Öğrenci Programı",
+    "about": "Hakkımızda",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "title": "APEX Intelligence",
+    "subtitle": "Sinir Tabanlı Müşteri Adayı Üretimi ile Satış Gücünüzü Artırın",
+    "description": "22 dilde nöral modellerle desteklenen gelişmiş yapay zeka platformu. B2B satış ekipleri için gerçek zamanlı pazarlama zekası sağlar.",
+    "cta": "Hemen Başlayın",
+    "learnMore": "Daha Fazla Bilgi",
+    "stats": {
+      "conversion": "+127% Dönüşüm",
+      "revenue": "+€1.3M Gelir",
+      "leads": "+45K Müşteri Adayı"
+    }
+  },
+  "moat": {
+    "title": "Neden APEX'i Seçmelisiniz",
+    "subtitle": "Sinir Tabanlı Müşteri Adayı Üretiminde Pazar Lideri",
+    "feature1": {
+      "title": "22 Dilde Yapay Zeka",
+      "description": "Gelişmiş dil işleme ve gerçek zamanlı tercüme"
+    },
+    "feature2": {
+      "title": "Nöral Müşteri Adayı Modeli",
+      "description": "Dönüşümü %127 artıran özel yapay zeka"
+    },
+    "feature3": {
+      "title": "CIPS Entegrasyonu",
+      "description": "Çin sınır ötesi ödeme sistemine erişim"
+    },
+    "feature4": {
+      "title": "BRICS+ Kapsama",
+      "description": "4.45 milyar potansiyel müşteriye ulaşın"
+    }
+  },
+  "pricing": {
+    "title": "İşletmeniz İçin Doğru Planı Seçin",
+    "subtitle": "Her büyüklükteki ekip için esnek fiyatlandırma",
+    "monthly": "Aylık",
+    "annual": "Yıllık",
+    "annualDiscount": "2 ay ücretsiz",
+    "starter": {
+      "name": "Başlangıç",
+      "price": "€297",
+      "period": "ay",
+      "description": "Küçük ekipler için",
+      "features": {
+        "leads": "5,000 müşteri adayı/ay",
+        "languages": "6 dil desteği",
+        "users": "3 kullanıcı",
+        "support": "E-posta desteği",
+        "analytics": "Temel analitik",
+        "api": "API erişimi"
+      },
+      "cta": "Başlangıcı Seç"
+    },
+    "professional": {
+      "name": "Profesyonel",
+      "price": "€697",
+      "period": "ay",
+      "description": "Büyüyen ekipler için",
+      "popular": "En Popüler",
+      "features": {
+        "leads": "25,000 müşteri adayı/ay",
+        "languages": "15 dil desteği",
+        "users": "10 kullanıcı",
+        "support": "Öncelikli destek",
+        "analytics": "Gelişmiş analitik",
+        "api": "Tam API erişimi",
+        "integration": "CRM entegrasyonu",
+        "training": "Ekip eğitimi"
+      },
+      "cta": "Profesyoneli Seç"
+    },
+    "enterprise": {
+      "name": "Kurumsal",
+      "price": "Özel",
+      "period": "",
+      "description": "Büyük kuruluşlar için",
+      "features": {
+        "leads": "Sınırsız müşteri adayı",
+        "languages": "22 dil desteği",
+        "users": "Sınırsız kullanıcı",
+        "support": "7/24 özel destek",
+        "analytics": "Özel analitik",
+        "api": "Beyaz etiket API",
+        "integration": "Özel entegrasyonlar",
+        "training": "Adanmış başarı yöneticisi",
+        "sla": "SLA garantisi",
+        "security": "Kurumsal güvenlik"
+      },
+      "cta": "İletişime Geçin"
+    }
+  },
+  "fellows": {
+    "title": "APEX Fellows Programı",
+    "subtitle": "Geleceğin Yapay Zeka Liderlerini Güçlendiriyoruz",
+    "description": "Öğrenciler ve yeni mezunlar için özel 90% indirim. Yapay zeka tabanlı satış zekasıyla profesyonel beceriler kazanın.",
+    "benefits": {
+      "discount": "90% İndirim",
+      "access": "Tam Platform Erişimi",
+      "mentorship": "Sektör Mentorlüğu",
+      "certificate": "Tamamlama Sertifikası"
+    },
+    "eligibility": "Kayıtlı öğrenciler ve son 2 yılda mezun olanlar için geçerlidir",
+    "cta": "Fellows'a Başvurun"
+  },
+  "footer": {
+    "tagline": "Satış Zekanızı 22 Dilde Güçlendirin",
+    "product": "Ürün",
+    "company": "Şirket",
+    "legal": "Yasal",
+    "social": "Sosyal Medya",
+    "rights": "© 2025 APEX Intelligence. Tüm hakları saklıdır.",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Hizmet Şartları"
+  }
+}
