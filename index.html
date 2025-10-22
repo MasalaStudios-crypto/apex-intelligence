@@ -1,28 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title data-i18n="meta.title">APEX Intelligence - The Neural Edge for What's Next</title>
+  <meta name="description" data-i18n="meta.description" content="APEX Intelligence uses predictive AI to identify future leaders before the world knows them. Built for enterprises defining 2030.">
+  <link rel="stylesheet" href="/css/styles.css">
+  <link rel="stylesheet" href="/css/rtl.css">
+  <script src="/js/i18n.js"></script>
+</head>
+<body>
+
 <nav class="nav">
-  <div class="logo">APEX<span>Intelligence</span></div>
+  <div class="logo">APEX<span data-i18n="nav.logoSpan">Intelligence</span></div>
   <div class="nav-links">
-    <a href="#">Intelligence</a>
-    <a href="#">Platform</a>
-    <a href="#">Pricing</a>
-    <a href="#">Docs</a>
-    <a href="#" class="login">Login</a>
-    <button class="cta-btn">Get Early Access</button>
+    <a href="#" data-i18n="nav.intelligence">Intelligence</a>
+    <a href="#" data-i18n="nav.platform">Platform</a>
+    <a href="#" data-i18n="nav.pricing">Pricing</a>
+    <a href="#" data-i18n="nav.docs">Docs</a>
+    <a href="#" class="login" data-i18n="nav.login">Login</a>
+    <button class="cta-btn" data-i18n="nav.ctaBtn">Get Early Access</button>
   </div>
 </nav>
 
 <section class="hero">
   <canvas id="particles"></canvas>
   <div class="hero-content">
-    <h1>APEX Intelligence</h1>
-    <p class="gradient-text">The neural edge for what's next.</p>
-    <p class="subtitle">"Built for the leaders who will define 2030."</p>
+    <h1 data-i18n="hero.title">APEX Intelligence</h1>
+    <p class="gradient-text" data-i18n="hero.tagline">The neural edge for what's next.</p>
+    <p class="subtitle" data-i18n="hero.subtitle">"Built for the leaders who will define 2030."</p>
     <div class="hero-btns">
-      <button class="primary-btn">Get Early Access</button>
-      <button class="secondary-btn">Watch Demo →</button>
+      <button class="primary-btn" data-i18n="hero.primaryBtn">Get Early Access</button>
+      <button class="secondary-btn" data-i18n="hero.secondaryBtn">Watch Demo →</button>
     </div>
     <div class="scroll-indicator">
       <div class="arrow">↓</div>
-      <span>Discover the neural advantage</span>
+      <span data-i18n="hero.scrollText">Discover the neural advantage</span>
     </div>
   </div>
 </section>
@@ -30,14 +43,14 @@
 <section class="intelligence-layer">
   <div class="content-grid">
     <div class="text-side">
-      <h2>We don't search.</h2>
-      <h2>We predict.</h2>
-      <p>Traditional lead gen finds who exists.<br>APEX Intelligence finds who matters—<br>before the world knows it.</p>
-      <a href="#" class="learn-more">Learn how →</a>
+      <h2 data-i18n="intelligence.heading1">We don't search.</h2>
+      <h2 data-i18n="intelligence.heading2">We predict.</h2>
+      <p data-i18n="intelligence.description">Traditional lead gen finds who exists.<br>APEX Intelligence finds who matters—<br>before the world knows it.</p>
+      <a href="#" class="learn-more" data-i18n="intelligence.learnMore">Learn how →</a>
     </div>
     <div class="visual-side">
       <div class="data-viz">
-        <div class="counter">2.4M profiles analyzed</div>
+        <div class="counter" data-i18n="intelligence.profilesCount">2.4M profiles analyzed</div>
       </div>
     </div>
   </div>
@@ -46,35 +59,39 @@
 <!-- Neural Moat Section -->
 <section class="neural-moat">
   <div class="moat-container">
-    <h2 class="section-title">The Neural Moat</h2>
-    <p class="section-subtitle">Why competitors can't copy us</p>
+    <h2 class="section-title" data-i18n="moat.title">The Neural Moat</h2>
+    <p class="section-subtitle" data-i18n="moat.subtitle">Why competitors can't copy us</p>
     
     <div class="moat-grid">
       <div class="moat-card">
-        <div class="icon">🧠</div>
-        <h3>Predictive Intelligence</h3>
-        <p>Identify decision-makers 2-3 years before they have the title. Our AI learns patterns of who becomes influential.</p>
+        <div class="moat-icon">🧠</div>
+        <h3 data-i18n="moat.predictive.title">Predictive Intelligence</h3>
+        <p data-i18n="moat.predictive.description">Identify decision-makers 2-3 years before they have the title. Our AI learns patterns of who becomes influential.</p>
       </div>
       
       <div class="moat-card">
-        <div class="icon">🌐</div>
-        <h3>Compounding Network</h3>
-        <p>Every client teaches our models. Exclusive future leaders dataset. First-mover Gen Alpha advantage.</p>
+        <div class="moat-icon">🌐</div>
+        <h3 data-i18n="moat.network.title">Compounding Network</h3>
+        <p data-i18n="moat.network.description">Every client teaches our models. Exclusive future leaders dataset. First-mover Gen Alpha advantage.</p>
       </div>
       
       <div class="moat-card">
-        <div class="icon">⚡</div>
-        <h3>API-First Architecture</h3>
-        <p>White-label for enterprise. Build on our platform. Become the neural infrastructure of B2B.</p>
+        <div class="moat-icon">⚡</div>
+        <h3 data-i18n="moat.api.title">API-First Architecture</h3>
+        <p data-i18n="moat.api.description">White-label for enterprise. Build on our platform. Become the neural infrastructure of B2B.</p>
       </div>
     </div>
-    
-    <div class="code-preview">
-      <div class="code-header">
-        <span>Python</span>
-        <span>apex_intelligence.py</span>
-      </div>
-      <pre><code>import apex_intelligence as apex
+  </div>
+</section>
+
+<!-- Code Example Section -->
+<section class="code-showcase">
+  <div class="code-container">
+    <div class="code-header">
+      <span class="code-lang">Python</span>
+      <span class="code-file">apex_intelligence.py</span>
+    </div>
+    <pre><code>import apex_intelligence as apex
 
 # Predict future executives
 leaders = apex.predict_rising_talent(
@@ -84,67 +101,73 @@ leaders = apex.predict_rising_talent(
 )
 
 print(f"Found {len(leaders)} rising stars")</code></pre>
-    </div>
   </div>
 </section>
 
 <!-- Pricing Section -->
 <section class="pricing">
-  <h2 class="section-title">Investment tiers for the next era</h2>
+  <h2 class="section-title" data-i18n="pricing.title">Investment tiers for the next era</h2>
   
   <div class="pricing-grid">
+    <!-- Foundation Plan -->
     <div class="pricing-card">
-      <h3>APEX Summit</h3>
-      <div class="price">$7,997<span>/month</span></div>
-      <p class="tier-desc">For enterprises ready to scale</p>
-      <ul class="features">
-        <li>✓ 2,000 leads/month</li>
-        <li>✓ Future leaders database</li>
-        <li>✓ White-label option</li>
-        <li>✓ Dedicated manager</li>
-        <li>✓ API access</li>
+      <h3 data-i18n="pricing.plan1Title">APEX Foundation</h3>
+      <div class="price" data-i18n="pricing.plan1Price">By Application</div>
+      <p class="plan-subtitle" data-i18n="pricing.plan1Subtitle">For growth-stage companies</p>
+      <ul>
+        <li data-i18n="pricing.plan1Feature1">✓ 500 leads/month</li>
+        <li data-i18n="pricing.plan1Feature2">✓ Multi-channel</li>
+        <li data-i18n="pricing.plan1Feature3">✓ CRM integration</li>
+        <li data-i18n="pricing.plan1Feature4">✓ Priority support</li>
       </ul>
-      <button class="card-btn">Book Demo →</button>
+      <button class="plan-btn" data-i18n="pricing.plan1Button">Apply Now →</button>
     </div>
     
-    <div class="pricing-card featured">
-      <div class="badge">MOST POPULAR</div>
-      <h3>APEX Neural ⭐</h3>
-      <div class="price">$19,997<span>/month</span></div>
-      <p class="tier-desc">For Fortune 500 & elite firms</p>
-      <ul class="features">
-        <li>✓ Unlimited leads</li>
-        <li>✓ Predictive engine</li>
-        <li>✓ Custom AI models</li>
-        <li>✓ Strategy sessions</li>
-        <li>✓ Co-branded content</li>
+    <!-- Summit Plan -->
+    <div class="pricing-card">
+      <h3 data-i18n="pricing.plan2Title">APEX Summit</h3>
+      <div class="price">
+        <span data-i18n="pricing.plan2Price">$7,997</span> <span data-i18n="pricing.perMonth">/month</span>
+      </div>
+      <p class="plan-subtitle" data-i18n="pricing.plan2Subtitle">For enterprises ready to scale</p>
+      <ul>
+        <li data-i18n="pricing.plan2Feature1">✓ 2,000 leads/month</li>
+        <li data-i18n="pricing.plan2Feature2">✓ Future leaders database</li>
+        <li data-i18n="pricing.plan2Feature3">✓ White-label option</li>
+        <li data-i18n="pricing.plan2Feature4">✓ Dedicated manager</li>
+        <li data-i18n="pricing.plan2Feature5">✓ API access</li>
       </ul>
-      <button class="card-btn primary">Contact Sales →</button>
+      <button class="plan-btn" data-i18n="pricing.plan2Button">Book Demo →</button>
     </div>
     
-    <div class="pricing-card">
-      <h3>APEX Foundation</h3>
-      <div class="price">By Application</div>
-      <p class="tier-desc">For growth-stage companies</p>
-      <ul class="features">
-        <li>✓ 500 leads/month</li>
-        <li>✓ Multi-channel</li>
-        <li>✓ CRM integration</li>
-        <li>✓ Priority support</li>
+    <!-- Neural Plan (Most Popular) -->
+    <div class="pricing-card popular">
+      <div class="badge" data-i18n="pricing.popularBadge">MOST POPULAR</div>
+      <h3><span data-i18n="pricing.plan3Title">APEX Neural</span> ⭐</h3>
+      <div class="price">
+        <span data-i18n="pricing.plan3Price">$19,997</span> <span data-i18n="pricing.perMonth">/month</span>
+      </div>
+      <p class="plan-subtitle" data-i18n="pricing.plan3Subtitle">For Fortune 500 & elite firms</p>
+      <ul>
+        <li data-i18n="pricing.plan3Feature1">✓ Unlimited leads</li>
+        <li data-i18n="pricing.plan3Feature2">✓ Predictive engine</li>
+        <li data-i18n="pricing.plan3Feature3">✓ Custom AI models</li>
+        <li data-i18n="pricing.plan3Feature4">✓ Strategy sessions</li>
+        <li data-i18n="pricing.plan3Feature5">✓ Co-branded content</li>
       </ul>
-      <button class="card-btn">Apply Now →</button>
+      <button class="plan-btn primary" data-i18n="pricing.plan3Button">Contact Sales →</button>
     </div>
   </div>
   
-  <p class="pricing-note">Annual contracts only. Investment in intelligence infrastructure, not cost.</p>
+  <p class="pricing-note" data-i18n="pricing.note">Annual contracts only. Investment in intelligence infrastructure, not cost.</p>
 </section>
 
-<!-- APEX Fellows Section -->
+<!-- Fellows Section -->
 <section class="fellows">
   <div class="fellows-content">
-    <h2 class="section-title gradient-title">APEX Fellows</h2>
-    <p class="section-subtitle">Empowering tomorrow's leaders, today</p>
-    <p class="fellows-desc">Free APEX Intelligence access for students and emerging founders at top global universities. Because the best investment is in people who will shape the future.</p>
+    <h2 class="section-title gradient-title" data-i18n="fellows.title">APEX Fellows</h2>
+    <p class="section-subtitle" data-i18n="fellows.subtitle">Empowering tomorrow's leaders, today</p>
+    <p class="fellows-desc" data-i18n="fellows.description">Free APEX Intelligence access for students and emerging founders at top global universities. Because the best investment is in people who will shape the future.</p>
     
     <div class="universities">
       <span>Harvard</span>
@@ -158,14 +181,19 @@ print(f"Found {len(leaders)} rising stars")</code></pre>
     <div class="fellows-stats">
       <div class="stat">
         <div class="stat-number">2,400+</div>
-        <div class="stat-label">Student Fellows</div>
+        <div class="stat-label" data-i18n="fellows.stat1Label">Student Fellows</div>
       </div>
       <div class="stat">
         <div class="stat-number">85</div>
-        <div class="stat-label">Countries</div>
+        <div class="stat-label" data-i18n="fellows.stat2Label">Countries</div>
       </div>
     </div>
     
-    <button class="fellows-btn">Apply for Fellowship →</button>
+    <button class="fellows-btn" data-i18n="fellows.applyButton">Apply for Fellowship →</button>
   </div>
 </section>
+
+<script src="/js/particles.js"></script>
+<script src="/js/main.js"></script>
+</body>
+</html>
