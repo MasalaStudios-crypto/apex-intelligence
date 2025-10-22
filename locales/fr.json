@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "title": "APEX Intelligence - Avantage neural pour la génération prédictive de leads B2B",
+    "description": "Conçu pour les leaders qui définiront 2030"
+  },
+  "nav": {
+    "brand": "APEX",
+    "brandSuffix": "Intelligence",
+    "intelligence": "Intelligence",
+    "platform": "Plateforme",
+    "pricing": "Tarifs",
+    "docs": "Documentation",
+    "login": "Connexion",
+    "ctaButton": "Obtenir un accès anticipé"
+  },
+  "hero": {
+    "title": "APEX Intelligence",
+    "tagline": "L'avantage neural pour ce qui vient.",
+    "subtitle": "Conçu pour les leaders qui définiront 2030.",
+    "primaryBtn": "Obtenir un accès anticipé",
+    "secondaryBtn": "Voir la démo →",
+    "scrollIndicator": "Découvrez l'avantage neural"
+  },
+  "intelligence": {
+    "heading1": "Nous ne cherchons pas.",
+    "heading2": "Nous prédisons.",
+    "description": "La génération de leads traditionnelle trouve qui existe.<br>APEX Intelligence trouve qui compte—<br>avant que le monde ne le sache.",
+    "learnMore": "En savoir plus →",
+    "statsLabel": "profils analysés"
+  },
+  "moat": {
+    "title": "Le Fossé Neural",
+    "subtitle": "Pourquoi les concurrents ne peuvent pas nous copier",
+    "card1Title": "Intelligence Prédictive",
+    "card1Desc": "Identifiez les décideurs 2-3 ans avant qu'ils n'obtiennent le titre. Notre IA apprend les modèles de qui devient influent.",
+    "card2Title": "Réseau Composé",
+    "card2Desc": "Chaque client enseigne nos modèles. Ensemble de données exclusif des futurs leaders. Avantage du premier arrivé pour la génération Alpha.",
+    "card3Title": "Architecture API-First",
+    "card3Desc": "Marque blanche pour les entreprises. Construisez sur notre plateforme. Devenez l'infrastructure neurale du B2B.",
+    "codeComment": "Prédire les futurs dirigeants",
+    "codeOutput": "{count} étoiles montantes trouvées"
+  },
+  "pricing": {
+    "title": "Niveaux d'investissement pour la nouvelle ère",
+    "plan1Name": "APEX Summit",
+    "plan1Price": "7 997 $",
+    "plan1Period": "/mois",
+    "plan1Desc": "Pour les entreprises prêtes à évoluer",
+    "plan1Feature1": "2 000 leads/mois",
+    "plan1Feature2": "Base de données des futurs leaders",
+    "plan1Feature3": "Option marque blanche",
+    "plan1Feature4": "Gestionnaire dédié",
+    "plan1Feature5": "Accès API",
+    "plan1Button": "Réserver une démo →",
+    "plan2Badge": "LE PLUS POPULAIRE",
+    "plan2Name": "APEX Neural ⭐",
+    "plan2Price": "19 997 $",
+    "plan2Period": "/mois",
+    "plan2Desc": "Pour Fortune 500 et entreprises d'élite",
+    "plan2Feature1": "Leads illimités",
+    "plan2Feature2": "Moteur prédictif",
+    "plan2Feature3": "Modèles IA personnalisés",
+    "plan2Feature4": "Sessions stratégiques",
+    "plan2Feature5": "Contenu co-brandé",
+    "plan2Button": "Contacter les ventes →",
+    "plan3Name": "APEX Foundation",
+    "plan3Price": "Sur demande",
+    "plan3Desc": "Pour les entreprises en croissance",
+    "plan3Feature1": "500 leads/mois",
+    "plan3Feature2": "Multicanal",
+    "plan3Feature3": "Intégration CRM",
+    "plan3Feature4": "Support prioritaire",
+    "plan3Button": "Postuler maintenant →",
+    "note": "Contrats annuels uniquement. Investissement dans l'infrastructure d'intelligence, pas un coût."
+  },
+  "fellows": {
+    "title": "APEX Fellows",
+    "subtitle": "Responsabiliser les leaders de demain, aujourd'hui",
+    "description": "Accès gratuit à APEX Intelligence pour les étudiants et fondateurs émergents dans les meilleures universités mondiales. Parce que le meilleur investissement est dans les personnes qui façonneront l'avenir.",
+    "stat1Number": "2 400+",
+    "stat1Label": "Boursiers étudiants",
+    "stat2Number": "85",
+    "stat2Label": "Pays",
+    "button": "Postuler pour une bourse →"
+  },
+  "footer": {
+    "copyright": "© 2025 APEX Intelligence. Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation"
+  },
+  "language": {
+    "name": "Français",
+    "code": "fr",
+    "selectLabel": "Langue"
+  }
+}
