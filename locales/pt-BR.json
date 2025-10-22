@@ -1,0 +1,103 @@
+{
+  "_meta": {
+    "language": "pt-BR",
+    "name": "Português (Brasil)",
+    "direction": "ltr",
+    "region": "Brazil, Portugal, Africa"
+  },
+  
+  "meta": {
+    "title": "APEX Intelligence - A Vantagem Neural para o Futuro",
+    "description": "APEX Intelligence usa IA preditiva para identificar líderes futuros antes que o mundo os conheça. Criado para empresas que definirão 2030."
+  },
+  
+  "nav": {
+    "logoSpan": "Intelligence",
+    "intelligence": "Inteligência",
+    "platform": "Plataforma",
+    "pricing": "Preços",
+    "docs": "Documentação",
+    "login": "Entrar",
+    "ctaBtn": "Obtenha Acesso Antecipado"
+  },
+  
+  "hero": {
+    "title": "APEX Intelligence",
+    "tagline": "A vantagem neural para o que vem a seguir.",
+    "subtitle": "\"Criado para os líderes que definirão 2030.\"",
+    "primaryBtn": "Obtenha Acesso Antecipado",
+    "secondaryBtn": "Assista à Demo →",
+    "scrollText": "Descubra a vantagem neural"
+  },
+  
+  "intelligence": {
+    "heading1": "Nós não buscamos.",
+    "heading2": "Nós prevemos.",
+    "description": "A geração de leads tradicional encontra quem existe.<br>APEX Intelligence encontra quem importa—<br>antes que o mundo saiba.",
+    "learnMore": "Saiba como →",
+    "profilesCount": "2.4M perfis analisados"
+  },
+  
+  "moat": {
+    "title": "O Fosso Neural",
+    "subtitle": "Por que os concorrentes não podem nos copiar",
+    "predictive": {
+      "title": "Inteligência Preditiva",
+      "description": "Identifique tomadores de decisão 2-3 anos antes. Nossa IA aprende padrões de quem se torna influente."
+    },
+    "network": {
+      "title": "Rede Composta",
+      "description": "Cada cliente ensina nossos modelos. Dataset exclusivo de líderes futuros. Vantagem do primeiro movimento na Geração Alfa."
+    },
+    "api": {
+      "title": "Arquitetura API-First",
+      "description": "White-label para empresas. Construa em nossa plataforma. Torne-se a infraestrutura neural do B2B."
+    }
+  },
+  
+  "pricing": {
+    "title": "Níveis de investimento para a próxima era",
+    "perMonth": "/mês",
+    "popularBadge": "MAIS POPULAR",
+    
+    "plan1Title": "APEX Foundation",
+    "plan1Price": "Por Aplicação",
+    "plan1Subtitle": "Para empresas em fase de crescimento",
+    "plan1Feature1": "✓ 500 leads/mês",
+    "plan1Feature2": "✓ Multi-canal",
+    "plan1Feature3": "✓ Integração CRM",
+    "plan1Feature4": "✓ Suporte prioritário",
+    "plan1Button": "Candidate-se Agora →",
+    
+    "plan2Title": "APEX Summit",
+    "plan2Price": "$7,997",
+    "plan2Subtitle": "Para empresas prontas para escalar",
+    "plan2Feature1": "✓ 2,000 leads/mês",
+    "plan2Feature2": "✓ Base de dados de líderes futuros",
+    "plan2Feature3": "✓ Opção white-label",
+    "plan2Feature4": "✓ Gerente dedicado",
+    "plan2Feature5": "✓ Acesso à API",
+    "plan2Button": "Agende uma Demo →",
+    
+    "plan3Title": "APEX Neural",
+    "plan3Price": "$19,997",
+    "plan3Subtitle": "Para Fortune 500 e empresas de elite",
+    "plan3Feature1": "✓ Leads ilimitados",
+    "plan3Feature2": "✓ Motor preditivo",
+    "plan3Feature3": "✓ Modelos de IA personalizados",
+    "plan3Feature4": "✓ Sessões de estratégia",
+    "plan3Feature5": "✓ Conteúdo co-branded",
+    "plan3Button": "Contate Vendas →",
+    
+    "note": "Apenas contratos anuais. Investimento em infraestrutura de inteligência, não custo."
+  },
+  
+  "fellows": {
+    "title": "APEX Fellows",
+    "subtitle": "Capacitando os líderes de amanhã, hoje",
+    "description": "Acesso gratuito ao APEX Intelligence para estudantes e fundadores emergentes nas principais universidades globais. Porque o melhor investimento é nas pessoas que moldarão o futuro.",
+    "stat1Label": "Estudantes Fellows",
+    "stat2Label": "Países",
+    "applyButton": "Candidate-se ao Fellowship →"
+  }
+}
