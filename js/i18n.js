@@ -6,8 +6,7 @@ class ApexI18n {
   constructor() {
     this.currentLang = 'en';
     this.translations = {};
-    this.supportedLanguages = ['en', 'es', 'zh', 'de', 'ar', 'fr', 'hi', 'bn', 'ur', 'pt-BR', 'ru', 'ja', 'ko', 'id', 'vi', 'tl', 'sw', 'yo', 'ha', 'am', 'it', 'nl'];    this.rtlLanguages = ['ar'];
-    this.init();
+    this.supportedLanguages = ['en', 'es', 'zh', 'de', 'ar', 'fr', 'hi', 'bn', 'ur', 'pt-BR', 'ru', 'ja', 'ko', 'id', 'vi', 'tl', 'sw', 'yo', 'ha', 'am', 'it', 'nl', 'tr', 'th', 'fa', 'pa'];    this.init();
   }
 
   // Initialize the i18n system
