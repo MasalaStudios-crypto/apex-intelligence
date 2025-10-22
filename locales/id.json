@@ -1,0 +1,103 @@
+{
+  "_meta": {
+    "language": "id",
+    "name": "Bahasa Indonesia",
+    "direction": "ltr",
+    "region": "Indonesia, Malaysia, Singapore"
+  },
+  
+  "meta": {
+    "title": "APEX Intelligence - Keunggulan Neural untuk Masa Depan",
+    "description": "APEX Intelligence menggunakan AI prediktif untuk mengidentifikasi pemimpin masa depan sebelum dunia mengenal mereka. Dibangun untuk perusahaan yang mendefinisikan 2030."
+  },
+  
+  "nav": {
+    "logoSpan": "Intelligence",
+    "intelligence": "Intelijen",
+    "platform": "Platform",
+    "pricing": "Harga",
+    "docs": "Dokumentasi",
+    "login": "Masuk",
+    "ctaBtn": "Dapatkan Akses Awal"
+  },
+  
+  "hero": {
+    "title": "APEX Intelligence",
+    "tagline": "Keunggulan neural untuk apa yang akan datang.",
+    "subtitle": "\"Dibangun untuk para pemimpin yang akan mendefinisikan 2030.\"",
+    "primaryBtn": "Dapatkan Akses Awal",
+    "secondaryBtn": "Tonton Demo →",
+    "scrollText": "Temukan keunggulan neural"
+  },
+  
+  "intelligence": {
+    "heading1": "Kami tidak mencari.",
+    "heading2": "Kami memprediksi.",
+    "description": "Generasi prospek tradisional menemukan siapa yang ada.<br>APEX Intelligence menemukan siapa yang penting—<br>sebelum dunia mengetahuinya.",
+    "learnMore": "Pelajari caranya →",
+    "profilesCount": "2.4M profil dianalisis"
+  },
+  
+  "moat": {
+    "title": "Parit Neural",
+    "subtitle": "Mengapa kompetitor tidak bisa meniru kami",
+    "predictive": {
+      "title": "Intelijen Prediktif",
+      "description": "Identifikasi pengambil keputusan 2-3 tahun sebelumnya. AI kami mempelajari pola siapa yang menjadi berpengaruh."
+    },
+    "network": {
+      "title": "Jaringan Majemuk",
+      "description": "Setiap klien mengajarkan model kami. Dataset pemimpin masa depan eksklusif. Keuntungan penggerak pertama Generasi Alpha."
+    },
+    "api": {
+      "title": "Arsitektur API-First",
+      "description": "Label putih untuk perusahaan. Bangun di platform kami. Menjadi infrastruktur neural B2B."
+    }
+  },
+  
+  "pricing": {
+    "title": "Tingkat investasi untuk era berikutnya",
+    "perMonth": "/bulan",
+    "popularBadge": "PALING POPULER",
+    
+    "plan1Title": "APEX Foundation",
+    "plan1Price": "Berdasarkan Aplikasi",
+    "plan1Subtitle": "Untuk perusahaan tahap pertumbuhan",
+    "plan1Feature1": "✓ 500 prospek/bulan",
+    "plan1Feature2": "✓ Multi-saluran",
+    "plan1Feature3": "✓ Integrasi CRM",
+    "plan1Feature4": "✓ Dukungan prioritas",
+    "plan1Button": "Lamar Sekarang →",
+    
+    "plan2Title": "APEX Summit",
+    "plan2Price": "$7,997",
+    "plan2Subtitle": "Untuk perusahaan siap berkembang",
+    "plan2Feature1": "✓ 2,000 prospek/bulan",
+    "plan2Feature2": "✓ Database pemimpin masa depan",
+    "plan2Feature3": "✓ Opsi label putih",
+    "plan2Feature4": "✓ Manajer khusus",
+    "plan2Feature5": "✓ Akses API",
+    "plan2Button": "Pesan Demo →",
+    
+    "plan3Title": "APEX Neural",
+    "plan3Price": "$19,997",
+    "plan3Subtitle": "Untuk Fortune 500 & firma elit",
+    "plan3Feature1": "✓ Prospek tak terbatas",
+    "plan3Feature2": "✓ Mesin prediktif",
+    "plan3Feature3": "✓ Model AI khusus",
+    "plan3Feature4": "✓ Sesi strategi",
+    "plan3Feature5": "✓ Konten co-branded",
+    "plan3Button": "Hubungi Penjualan →",
+    
+    "note": "Hanya kontrak tahunan. Investasi dalam infrastruktur intelijen, bukan biaya."
+  },
+  
+  "fellows": {
+    "title": "APEX Fellows",
+    "subtitle": "Memberdayakan pemimpin masa depan, hari ini",
+    "description": "Akses gratis APEX Intelligence untuk mahasiswa dan pendiri pemula di universitas global terkemuka. Karena investasi terbaik adalah pada orang-orang yang akan membentuk masa depan.",
+    "stat1Label": "Fellow Mahasiswa",
+    "stat2Label": "Negara",
+    "applyButton": "Lamar untuk Fellowship →"
+  }
+}
