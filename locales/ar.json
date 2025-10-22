@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "title": "APEX Intelligence - ميزة عصبية للتوليد التنبؤي للعملاء المحتملين في B2B",
+    "description": "مصمم للقادة الذين سيشكلون عام 2030"
+  },
+  "nav": {
+    "brand": "APEX",
+    "brandSuffix": "Intelligence",
+    "intelligence": "الذكاء",
+    "platform": "المنصة",
+    "pricing": "التسعير",
+    "docs": "التوثيق",
+    "login": "تسجيل الدخول",
+    "ctaButton": "احصل على وصول مبكر"
+  },
+  "hero": {
+    "title": "APEX Intelligence",
+    "tagline": "الميزة العصبية لما هو قادم.",
+    "subtitle": "مصمم للقادة الذين سيشكلون عام 2030.",
+    "primaryBtn": "احصل على وصول مبكر",
+    "secondaryBtn": "شاهد العرض التوضيحي ←",
+    "scrollIndicator": "اكتشف الميزة العصبية"
+  },
+  "intelligence": {
+    "heading1": "نحن لا نبحث.",
+    "heading2": "نحن نتنبأ.",
+    "description": "توليد العملاء المحتملين التقليدي يجد من هو موجود.<br>APEX Intelligence يجد من هو مهم—<br>قبل أن يعرف العالم.",
+    "learnMore": "تعرف على المزيد ←",
+    "statsLabel": "ملف تعريف تم تحليله"
+  },
+  "moat": {
+    "title": "الخندق العصبي",
+    "subtitle": "لماذا لا يستطيع المنافسون نسخنا",
+    "card1Title": "الذكاء التنبؤي",
+    "card1Desc": "حدد صناع القرار قبل 2-3 سنوات من حصولهم على المنصب. يتعلم الذكاء الاصطناعي لدينا أنماط من يصبح مؤثرًا.",
+    "card2Title": "الشبكة المركبة",
+    "card2Desc": "كل عميل يعلم نماذجنا. مجموعة بيانات حصرية للقادة المستقبليين. ميزة المحرك الأول لجيل ألفا.",
+    "card3Title": "بنية API أولاً",
+    "card3Desc": "علامة بيضاء للمؤسسات. ابنِ على منصتنا. كن البنية التحتية العصبية لـ B2B.",
+    "codeComment": "التنبؤ بالمديرين التنفيذيين المستقبليين",
+    "codeOutput": "تم العثور على {count} نجوم صاعدة"
+  },
+  "pricing": {
+    "title": "مستويات الاستثمار للعصر الجديد",
+    "plan1Name": "APEX Summit",
+    "plan1Price": "$7,997",
+    "plan1Period": "/شهر",
+    "plan1Desc": "للمؤسسات الجاهزة للتوسع",
+    "plan1Feature1": "2,000 عميل محتمل/شهر",
+    "plan1Feature2": "قاعدة بيانات القادة المستقبليين",
+    "plan1Feature3": "خيار العلامة البيضاء",
+    "plan1Feature4": "مدير مخصص",
+    "plan1Feature5": "وصول API",
+    "plan1Button": "احجز عرضًا توضيحيًا ←",
+    "plan2Badge": "الأكثر شعبية",
+    "plan2Name": "APEX Neural ⭐",
+    "plan2Price": "$19,997",
+    "plan2Period": "/شهر",
+    "plan2Desc": "لشركات Fortune 500 والشركات النخبة",
+    "plan2Feature1": "عملاء محتملون غير محدودين",
+    "plan2Feature2": "محرك تنبؤي",
+    "plan2Feature3": "نماذج ذكاء اصطناعي مخصصة",
+    "plan2Feature4": "جلسات استراتيجية",
+    "plan2Feature5": "محتوى ذو علامة تجارية مشتركة",
+    "plan2Button": "اتصل بالمبيعات ←",
+    "plan3Name": "APEX Foundation",
+    "plan3Price": "عن طريق التطبيق",
+    "plan3Desc": "للشركات في مرحلة النمو",
+    "plan3Feature1": "500 عميل محتمل/شهر",
+    "plan3Feature2": "متعدد القنوات",
+    "plan3Feature3": "تكامل CRM",
+    "plan3Feature4": "دعم ذو أولوية",
+    "plan3Button": "تقدم الآن ←",
+    "note": "عقود سنوية فقط. استثمار في البنية التحتية للذكاء، وليس تكلفة."
+  },
+  "fellows": {
+    "title": "APEX Fellows",
+    "subtitle": "تمكين قادة الغد، اليوم",
+    "description": "وصول مجاني إلى APEX Intelligence للطلاب والمؤسسين الناشئين في أفضل الجامعات العالمية. لأن أفضل استثمار هو في الأشخاص الذين سيشكلون المستقبل.",
+    "stat1Number": "2,400+",
+    "stat1Label": "زملاء الطلاب",
+    "stat2Number": "85",
+    "stat2Label": "دولة",
+    "button": "تقدم للحصول على زمالة ←"
+  },
+  "footer": {
+    "copyright": "© 2025 APEX Intelligence. جميع الحقوق محفوظة.",
+    "privacy": "سياسة الخصوصية",
+    "terms": "شروط الخدمة"
+  },
+  "language": {
+    "name": "العربية",
+    "code": "ar",
+    "dir": "rtl",
+    "selectLabel": "اللغة"
+  }
+}
