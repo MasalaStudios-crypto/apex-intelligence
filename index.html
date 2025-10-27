@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html lang="en" dir="ltr">
   <head>
     <meta charset="UTF-8" />
@@ -9,7 +8,6 @@
     <link rel="stylesheet" href="/css/styles.css" />
     <link rel="stylesheet" href="/css/rtl.css" />
     <link rel="stylesheet" href="/css/lang-selector.css" />
-    <script src="/js/i18n.js"></script>
   </head>
   <body>
     <nav class="nav">
@@ -20,48 +18,49 @@
         <a href="#" data-i18n="nav.pricing">Pricing</a>
         <a href="#" data-i18n="nav.docs">Docs</a>
         <a href="#" class="login" data-i18n="nav.login">Login</a>
-        <button class="cta-btn" data-i18n="nav.ctaBtn">Get Early Access
-          <div class="language-selector">
-            <button aria-label="Select language" class="lang-btn" id="langToggle">
-              <span class="globe-icon">🌐</span>
-              <span class="current-lang" id="currentLang">EN</span>
-              <span class="dropdown-arrow">▼</span>
-            </button>
-            <div class="lang-dropdown" id="langDropdown">
-              <div class="lang-option" data-lang="en">English</div>
-              <div class="lang-option" data-lang="es">Español</div>
-              <div class="lang-option" data-lang="zh">中文</div>
-              <div class="lang-option" data-lang="de">Deutsch</div>
-              <div class="lang-option" data-lang="ar">العربية</div>
-              <div class="lang-option" data-lang="fr">Français</div>
-              <div class="lang-option" data-lang="hi">हिन्दी</div>
-              <div class="lang-option" data-lang="bn">বাংলা</div>
-              <div class="lang-option" data-lang="ur">اردو</div>
-              <div class="lang-option" data-lang="pt-BR">Português (BR)</div>
-              <div class="lang-option" data-lang="ru">Русский</div>
-              <div class="lang-option" data-lang="ja">日本語</div>
-              <div class="lang-option" data-lang="ko">한국어</div>
-              <div class="lang-option" data-lang="id">Bahasa Indonesia</div>
-              <div class="lang-option" data-lang="vi">Tiếng Việt</div>
-              <div class="lang-option" data-lang="tl">Tagalog</div>
-              <div class="lang-option" data-lang="sw">Kiswahili</div>
-              <div class="lang-option" data-lang="yo">Yorùbá</div>
-              <div class="lang-option" data-lang="ha">Hausa</div>
-              <div class="lang-option" data-lang="am">አማርኛ</div>
-              <div class="lang-option" data-lang="it">Italiano</div>
-              <div class="lang-option" data-lang="nl">Nederlands</div>
-              <div class="lang-option" data-lang="tr">Türkçe</div>
-              <div class="lang-option" data-lang="th">ไทย</div>
-              <div class="lang-option" data-lang="fa">فارسی</div>
-              <div class="lang-option" data-lang="pa">ਪੰਜਾਬੀ</div>
-              <div class="lang-option" data-lang="ms">Bahasa Melayu</div>
-              <div class="lang-option" data-lang="pl">Polski</div>
-              <div class="lang-option" data-lang="uk">Українська</div>
-              <div class="lang-option" data-lang="el">Ελληνικά</div>
-            </div>
+        <button class="cta-btn" data-i18n="nav.ctaBtn">Get Early Access</button>
+        <div class="language-selector">
+          <button aria-label="Select language" class="lang-btn" id="langToggle">
+            <span class="globe-icon">🌐</span>
+            <span class="current-lang" id="currentLang">EN</span>
+            <span class="dropdown-arrow">▼</span>
+          </button>
+          <div class="lang-dropdown" id="langDropdown">
+            <div class="lang-option" data-lang="en">English</div>
+            <div class="lang-option" data-lang="es">Español</div>
+            <div class="lang-option" data-lang="zh">中文</div>
+            <div class="lang-option" data-lang="de">Deutsch</div>
+            <div class="lang-option" data-lang="ar">العربية</div>
+            <div class="lang-option" data-lang="fr">Français</div>
+            <div class="lang-option" data-lang="hi">हिन्दी</div>
+            <div class="lang-option" data-lang="bn">বাংলা</div>
+            <div class="lang-option" data-lang="ur">اردو</div>
+            <div class="lang-option" data-lang="pt-BR">Português (BR)</div>
+            <div class="lang-option" data-lang="ru">Русский</div>
+            <div class="lang-option" data-lang="ja">日本語</div>
+            <div class="lang-option" data-lang="ko">한국어</div>
+            <div class="lang-option" data-lang="id">Bahasa Indonesia</div>
+            <div class="lang-option" data-lang="vi">Tiếng Việt</div>
+            <div class="lang-option" data-lang="tl">Tagalog</div>
+            <div class="lang-option" data-lang="sw">Kiswahili</div>
+            <div class="lang-option" data-lang="yo">Yorùbá</div>
+            <div class="lang-option" data-lang="ha">Hausa</div>
+            <div class="lang-option" data-lang="am">አማርኛ</div>
+            <div class="lang-option" data-lang="it">Italiano</div>
+            <div class="lang-option" data-lang="nl">Nederlands</div>
+            <div class="lang-option" data-lang="tr">Türkçe</div>
+            <div class="lang-option" data-lang="th">ไทย</div>
+            <div class="lang-option" data-lang="fa">فارسی</div>
+            <div class="lang-option" data-lang="pa">ਪੰਜਾਬੀ</div>
+            <div class="lang-option" data-lang="ms">Bahasa Melayu</div>
+            <div class="lang-option" data-lang="pl">Polski</div>
+            <div class="lang-option" data-lang="uk">Українська</div>
+            <div class="lang-option" data-lang="el">Ελληνικά</div>
           </div>
-        </button>
+        </div>
       </div>
     </nav>
+    <script src="/js/i18n.js"></script>
+    <script src="/js/lang-selector.js"></script>
   </body>
 </html>
